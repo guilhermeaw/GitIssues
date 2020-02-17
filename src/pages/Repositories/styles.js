@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
   },
 
   repoList: {
-    marginBottom: metrics.baseMargin * 9,
+    marginBottom: metrics.baseMargin * 12,
   },
 });
 
